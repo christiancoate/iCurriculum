@@ -2,10 +2,9 @@ body {
 	background-color:#FFCC00;
 }
 h2 {
-	font-family:serif;
+text-align:center;
 	}
-#button {
+a {
+	border:ridge;
 	background-color:gray;
-	display:inline-block;
-	font-family:serif;
 }
