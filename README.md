@@ -18,4 +18,4 @@ You know those educational TV shows, you know, the ones that try to teach a kid 
 
 
 ## My Dream With This
-I want this app to be a resource that will be used for generations to come. So, your contributions help alot, but if you want to contribute email me at [schoolonandroid@outlook.com](schoolonandroid@outlook.com).
+I want this app to be a resource that will be used for generations to come. So, your contributions help alot, but if you want to contribute email me at schoolonandroid@outlook.com.
