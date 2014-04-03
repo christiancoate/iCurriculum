@@ -1,0 +1,11 @@
+body {
+	background-color:#FFCC00;
+}
+h2 {
+	font-family:serif;
+	}
+#button {
+	background-color:gray;
+	display:inline-block;
+	font-family:serif;
+}
