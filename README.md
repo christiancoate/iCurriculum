@@ -7,7 +7,6 @@ Current features include:
 
 
 * Interactive video playlist
-* Filter selection
 
 
 ... and many more coming up!
