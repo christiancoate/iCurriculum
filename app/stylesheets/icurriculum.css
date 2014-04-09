@@ -8,6 +8,6 @@ a {
 	border:ridge;
 	background-color:gray;
 }
-.red {
+a :hover {
 	background-color:#8B0000;
 }
