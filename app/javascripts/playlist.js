@@ -1,8 +1,10 @@
 $(document).ready(function(){
+  // Enables dragging for any 'video' element.
 $('video').draggable();
-$('#playlist').droppable(function(){
+// Makes them droppable in the '#playlist' target.
+('#playlist').droppable(function(){
   var $playlist = $('#playlist').html();
-  // I do not exactly need that fith line of code.
+  // Append the dropped element to '#yourPlaylist'.
   $('#yourPlaylist').append($playlist);
 });
 });
